@@ -9,7 +9,6 @@
 ┣/fonts
 ┃  ┗ Bestten-DOT.bdf       // .bdf形式の10x10フォントファイル
 ┃
-┃
 ┣ /infomation_json_files
 ┃  ┣ departure.json        // 発車情報
 ┃  ┣ first_last_train.json // 始発＆終電情報
