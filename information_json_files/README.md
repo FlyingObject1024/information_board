@@ -1,0 +1,2 @@
+このフォルダはjson情報が保存するためのものです。
+information_board.pyを起動すると、jsonファイル群が生成されます。
