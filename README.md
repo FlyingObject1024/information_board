@@ -12,7 +12,7 @@
 ┃
 ┣ /infomation_json_files
 ┃  ┣ departure.json        // 発車情報
-┃  ┣ first_last_train.json // 始発＆終電
+┃  ┣ first_last_train.json // 始発＆終電情報
 ┃  ┣ operation.json        // 運行情報
 ┃  ┣ jma_forecast_raw.json // 天気情報生データ
 ┃  ┗ weather_forecast.json // 天気情報
